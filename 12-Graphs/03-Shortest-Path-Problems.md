@@ -1,6 +1,6 @@
 # Bài Tập Thực Hành: Shortest Path
 
-Tài liệu này bao gồm 30 bài tập thực hành về thuật toán đường đi ngắn nhất (Shortest Path), từ cơ bản đến nâng cao. 10 bài đầu tiên sẽ được cung cấp đầy đủ đề bài, phân tích, mã nguồn Java và độ phức tạp.
+Tài liệu này bao gồm 30 bài tập thực hành về thuật toán đường đi ngắn nhất (Shortest Path), từ cơ bản đến nâng cao. Tất cả 30 bài sẽ được cung cấp đầy đủ đề bài, phân tích, mã nguồn Java và độ phức tạp.
 
 ---
 
